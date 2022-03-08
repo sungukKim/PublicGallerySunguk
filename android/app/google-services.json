@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "131886039891",
+    "project_id": "public-gallery-a55cc",
+    "storage_bucket": "public-gallery-a55cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131886039891:android:901b1c8ece74425cf097a6",
+        "android_client_info": {
+          "package_name": "com.publicgallerySunguk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131886039891-e65kv5tn8tknvbhu4fq6bna7585ftvof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.publicgallerySunguk",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "131886039891-mn0cdifcciq5b8nfjt5sr45aksa0jt0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlLw1mkX78DQkqygz__Y9WU7vMA3MhFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131886039891-mn0cdifcciq5b8nfjt5sr45aksa0jt0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131886039891-5cpltjgrlhf7pqhrlllj6gtal6uq09ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.PublicGallerySunguk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
